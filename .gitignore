@@ -1,0 +1,33 @@
+
+# ==========================================
+# CARTEIRA DE INVESTIMENTOS - CP2
+# Arquivos ignorados pelo Git
+# ==========================================
+
+# Executaveis gerados na compilacao
+programa
+programa.exe
+*.exe
+
+# Arquivos temporarios de compilacao
+*.o
+*.obj
+*.out
+*.dll
+*.so
+*.dSYM/
+
+# Configuracoes locais do VS Code
+.vscode/
+
+# Arquivos temporarios do Windows e macOS
+Thumbs.db
+.DS_Store
+
+# Arquivos de backup
+*.bak
+*.tmp
+*~
+
+# Logs
+*.log
